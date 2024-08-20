@@ -1,0 +1,2 @@
+# macros
+Макросы для CorelDraw
